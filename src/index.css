@@ -105,8 +105,12 @@ input {
   .ul-container {
     flex-wrap: nowrap;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  }
+  .itemslist {
+    margin: 15px 0px 0px 10px;
+    text-align: left;
+    display: flex;
+    justify-content: left;
   }
   .input-section input {
     width: 50%;

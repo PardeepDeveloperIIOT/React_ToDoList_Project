@@ -39,7 +39,6 @@ function InputContainer() {
     totalValue.push(Number(count));
     updateproduct();
     setInputValue("");
-    setCount("");
   }
 
   function Removeitems(id, mycount) {
